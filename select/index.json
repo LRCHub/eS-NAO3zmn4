@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "이브, 프시케 그리고 푸른 수염의 아내",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2025-12-01T05:54:09.163854Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "이브, 프시케 그리고 푸른 수염의 아내",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/01_이브,_프시케_그리고_푸른_수염의_아내_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "이브, 프시케 그리고 푸른 수염의 아내",
+      "artist": "LE SSERAFIM (르세라핌)",
+      "has_synced": false,
+      "path": "select/02_이브,_프시케_그리고_푸른_수염의_아내_LE_SSERAFIM_(르세라핌).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "이브, 프시케 그리고 푸른 수염의 아내 (Feat. UPSAHL)",
+      "artist": "LE SSERAFIM (르세라핌)",
+      "has_synced": false,
+      "path": "select/03_이브,_프시케_그리고_푸른_수염의_아내_(Feat._UPSAHL)_LE_SSERAFIM_(르세라핌).txt"
+    }
+  ]
+}

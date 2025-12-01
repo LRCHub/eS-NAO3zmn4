@@ -1,0 +1,83 @@
+# LE SSERAFIM – 이브, 프시케 그리고 푸른 수염의 아내
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:05.62] I'm a mess mess mess mess mess mess mess
+[00:09.10] I'm a mess mess mess mess mess mess mess
+[00:12.45] I'm a mess in distress
+[00:13.90] But we're still the best dressed
+[00:15.86] Fearless say yes, we don't dress to impress
+[00:37.36] 
+[00:20.01] 괜찮단다 뭐를 해도 거짓말인 걸 난 알아
+[00:26.14] 괜찮겠지 뭘 해도 착한 얼굴에 네 말 잘 들을 땐
+[00:33.77] 괜찮지 않아 그런 건 내 룰은 나만 정할래 yeah
+[00:40.33] 볼 거야 금지된 걸
+[00:42.58] Never hold back 더 자유롭게
+[00:53.58] 
+[00:46.21] Boom boom boom 내 심장이 뛰네
+[00:49.85] Get it like boom boom boom
+[00:51.09] Get it like boom boom boom
+[00:52.45] Boom boom now
+[00:53.42] Boom boom boom 내 심장이 뛰네
+[00:56.50] Get it like boom boom boom
+[00:57.78] Get it like boom boom boom
+[01:10.78] 
+[00:59.22] (Push it) I wish for what's forbidden
+[01:03.21] Get it like boom boom boom
+[01:04.58] Get it like boom boom boom
+[01:06.01] (Push it) I wish for what's forbidden
+[01:09.99] Get it like boom boom boom
+[01:11.34] Get it like boom boom boom
+[01:24.34] 
+[01:13.34] I'm a mess mess mess mess mess mess mess
+[01:16.17] I'm a mess mess mess mess mess mess mess
+[01:19.66] I'm a mess in distress
+[01:21.29] But we're still the best dressed
+[01:23.09] Fearless say yes, we don't dress to impress
+[01:44.59] 
+[01:27.17] 웃어 웃어 더 인형이 되렴
+[01:30.58] 덮어 덮어 다 감정 따윈 다
+[01:33.82] 싫어 싫어 난 인형이 아냐
+[01:37.22] 찡그린대도 그것도 나야
+[01:40.74] 보지 말라 보고 파 날 둘러싼 이 금기들
+[01:46.83] 그날의 이브처럼
+[01:49.70] Take it on the chain I know I like that
+[02:09.20] 
+[01:53.78] Boom boom boom 내 심장이 뛰네
+[01:56.79] Get it like boom boom boom
+[01:58.22] Get it like boom boom boom
+[01:59.42] Boom boom now
+[02:00.31] Boom boom boom 내 심장이 뛰네
+[02:03.63] Get it like boom boom boom
+[02:04.99] Get it like boom boom boom
+[02:17.99] 
+[02:06.26] (Push it) I wish for what's forbidden
+[02:10.23] Get it like boom boom boom
+[02:11.74] Get it like boom boom boom
+[02:13.10] (Push it) I wish for what's forbidden
+[02:16.99] Get it like boom boom boom
+[02:18.27] Get it like boom boom boom
+[02:31.27] 
+[02:20.27] What you waiting for?
+[02:22.23] 이게 타락이면 we fall fall fall
+[02:27.51] What you looking for?
+[02:28.67] 원한다면 now we fall we fall we fall
+[02:44.67] 
+[02:35.42] Boom boom boom 내 심장이 뛰네
+[02:38.79] Get it like boom boom boom
+[02:40.10] Get it like boom boom boom
+[02:41.47] Boom boom now
+[02:42.35] Boom boom boom 내 심장이 뛰네
+[02:45.59] Get it like boom boom boom
+[02:46.87] Get it like boom boom boom
+[02:59.87] 
+[02:48.19] Girl wanna have fun
+[02:49.83] Girl wanna have fun
+[02:52.35] Get it like boom boom boom
+[02:53.63] Get it like boom boom boom
+[02:54.99] Girl wanna have fun
+[02:56.71] Girl wanna have fun
+[02:59.25] Get it like boom boom boom
+[03:00.25] Get it like boom boom boom
+```
